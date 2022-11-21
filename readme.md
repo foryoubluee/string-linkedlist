@@ -2,8 +2,6 @@
 
 Aryasena Putra | 825220185
 
-## [Start]
-
 ### Declare Constant variable
 ```
 const string VOWEL = "aiueoAIUEO";
@@ -22,6 +20,7 @@ isPalindrome(string str) -> void;           // 10.a
 ```
 
 ### Main Algorithm
+#### [Start]
 ```
 // 8.d, 9.b, 10.b Algoritma Utama
 main() -> int {
@@ -36,6 +35,7 @@ main() -> int {
   return 0;
 }
 ```
+#### [Halt]
 
 ### Define Function
 ```
